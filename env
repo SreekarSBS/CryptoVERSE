@@ -1,0 +1,7 @@
+REACT_APP_RAPIDAPI_KEY =  '1dfd8c43b6msh7bb870395daac58p1c733bjsn4a7f6c903cb6'
+REACT_APP_CRYPTO_API_URL = 'https://coinranking-api1.p.rapidapi.com'
+REACT_APP_NEWS_API_URL = 'https://bing-news-search1.p.rapidapi.com'
+REACT_APP_NEWS_RAPIDAPI_HOST = 'bing-news-search1.p.rapidapi.com'
+ REACT_APP_CRYPTO_RAPIDAPI_HOST ='coinranking-api1.p.rapidapi.com'
+
+ESLINT_NO_DEV_ERRORS=true
