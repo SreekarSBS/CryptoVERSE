@@ -3,6 +3,11 @@
 
 Cryptoverse is a user-friendly app designed for real-time cryptocurrency market data, exchange insights, portfolio tracking, and the latest news to help users manage their crypto assets.
 
+## 🌐 Live Demo
+
+🔗 [Cryptoverse Live](https://crypto-verse-gray.vercel.app/)
+
+
 ## Features
 - Real-time cryptocurrency data
 - ![image](https://github.com/user-attachments/assets/bd5062a9-43f6-4bf1-90b5-8e5ff96da5c2)
